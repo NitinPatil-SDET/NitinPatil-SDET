@@ -17,25 +17,31 @@ I’m passionate about solving real-world problems through **test automation fra
 
 ---
 
-## 📌 Featured Projects
-🔹 [OpenCart UI Automation](https://github.com/your-username/OpenCartAutomation)  
-`JAVA | Selenium | TestNG | Maven | Docker | Jenkins | Git | CI/CD | Selenium Grid`  
+## 📌 Featured Projects  
 
-🔹 [SDET Interview Preparation](https://github.com/your-username/SDET_Interview_Preparation)  
-`JAVA | Problem Solving | OOPs | Coding Challenges`  
-
----
-
-## 📈 GitHub Stats
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+🔹 **[OpenCart UI Automation](https://github.com/NitinPatil-SDET/OpenCartUIAutomation)**  
+`Java | Selenium | TestNG | Maven | Docker | Jenkins | Git | CI/CD | Selenium Grid`  
+Automated UI test suite for OpenCart e-commerce platform with cross-browser execution and CI/CD pipeline integration.  
 
 ---
 
-## 🤝 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 📧 Email: your-email@gmail.com  
+🔹 **[PetStore API Automation](https://github.com/NitinPatil-SDET/PetStoreAPIAutomation)**  
+`Java | REST Assured | TestNG | Maven | Postman | Jenkins | Git`  
+Comprehensive API test framework for the Swagger PetStore API with validations, request chaining, and automated reporting.  
 
 ---
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/NitinPatil-SDET">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nitinpatilsdet/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nitinpatilsdet@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ⭐ Always exploring **Test Automation, Java Development, and SDET best practices** to deliver high-quality software.
