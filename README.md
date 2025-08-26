@@ -1,56 +1,41 @@
-# 👋 Hi, I'm Nitin Patil
+# 👋 Hi, I'm Nitin  
 
-🚀 Java Automation Test Engineer | Aspiring SDE | DSA Learner
+🚀 Software Development Engineer in Test (SDET) | 💻 Automation Test Engineer  | ⚡ AI Enthusiast  
 
----
-
-## 👨‍💻 About Me
-
-- 💼 Currently working as a **Java Automation Test Engineer**
-- 🎯 Actively preparing for an **SDE role** with strong focus on **Data Structures & Algorithms**
-- 💡 Passionate about building **robust, scalable applications** and writing **clean, testable code**
-- 🧠 Always learning: **DSA**, **System Design**, and **Test Automation frameworks**
+I specialize in **Manual + Automation Testing**, with hands-on experience in **Java, Selenium, TestNG, API Testing, SQL, Git, and CI/CD**.  
+I’m passionate about solving real-world problems through **test automation frameworks, clean coding, and QA best practices**.  
 
 ---
 
-## 🛠️ Technologies & Skills
-
-![DSA](https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge)
-![LeetCode](https://img.shields.io/badge/LeetCode-Progress-yellow?style=for-the-badge&logo=leetcode&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-
----
-
-## 📘 Currently Learning
-
-- 🧮 **Data Structures & Algorithms** (Java)
-- 🧪 Advanced **Test Automation Frameworks**
-- 🌐 **Spring Boot** (Backend dev)
-- ☁️ **GitHub Actions**, CI/CD Basics
-
----
-
-## 🔗 Connect With Me
-
-- 📫 Email: `ni3patil2601@gmail.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/nitinpatilsdet/)
-- 📁 [Resume](#) *(optional)*
+## 🔧 Tech Stack
+- **Languages:** Java, Python (basics), SQL  
+- **Testing Tools:** Selenium WebDriver, TestNG, JUnit, RestAssured, Postman  
+- **Frameworks:** BDD (Cucumber), Hybrid Frameworks  
+- **DevOps & Tools:** Maven, Jenkins, Docker, Git, GitHub, CI/CD Pipelines  
+- **Databases:** MySQL, PostgreSQL  
+- **Others:** Agile, Jira, JMeter (basics)  
 
 ---
 
 ## 📌 Featured Projects
+🔹 [OpenCart UI Automation](https://github.com/your-username/OpenCartAutomation)  
+`JAVA | Selenium | TestNG | Maven | Docker | Jenkins | Git | CI/CD | Selenium Grid`  
 
-### 🚀 [Employee Management GUI](https://github.com/ni3patil2601/Employee-Management-GUI)
-> Java Swing-based Employee Management System with File Handling and CRUD Operations.
-
-<!-- Add more pinned projects here -->
+🔹 [SDET Interview Preparation](https://github.com/your-username/SDET_Interview_Preparation)  
+`JAVA | Problem Solving | OOPs | Coding Challenges`  
 
 ---
 
-> *“Consistency is more important than intensity. Keep coding, keep growing!”*
+## 📈 GitHub Stats
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+
+---
+
+## 🤝 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- 📧 Email: your-email@gmail.com  
+
+---
+⭐ Always exploring **Test Automation, Java Development, and SDET best practices** to deliver high-quality software.
